@@ -1,3 +1,9 @@
+### Stacks contract 
+
+https://www.stacks.co/
+
+https://book.clarity-lang.org/title-page
+
 ## create new projects
 
 ```
